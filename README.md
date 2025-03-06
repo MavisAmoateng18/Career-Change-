@@ -1,5 +1,5 @@
 # Career-Change-
-This analysis focuses on how people changes their career.
+This analysis focuses on how people changes their career.The analysis was done using python and SQL.
  
 ## SOURCE                  KAGGLE
 ## COLUMNS                 23
